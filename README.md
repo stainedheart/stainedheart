@@ -1,4 +1,7 @@
-## Hi there 👋
+![hi](https://komarev.com/ghpvc/?username=stainedheart&color=grey&style=for-the-badge)
+
+
+
 
 <!--
 **stainedheart/stainedheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
