@@ -1,8 +1,14 @@
-![hi](https://komarev.com/ghpvc/?username=stainedheart&color=grey&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stainedheart&color=grey&style=for-the-badge" alt="Profile views">
+</p>
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/297cd0e5-4e87-4acf-9443-0365f38d30b4" alt="image">
+</p>
 
-
-
-
+<p align="center">
+<sub>hi! i go by shin , any prns! i may come off as shy but im very sweet once close! i am PLAYFULLY mean and its not to be taken srsly!
+my dnis arent strict bcs its just a game but if anything happens to disturb me in a way i will tell you so . i LOOOVVEEE making friends so pls int!!!!</sub>
+</p>
 <!--
 **stainedheart/stainedheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
